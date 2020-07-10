@@ -1,0 +1,35 @@
+    .singin {
+    position:fixed;
+    margin-left: 980px;
+    margin-top: -85px;
+    padding: 7px 14px;
+    background: white;
+    border: 1px white solid;
+    border-radius:2px;
+    color: #33BFCB;
+   }
+
+   .singin:hover {
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    transition:all .25s;
+    }
+
+   .login {
+    position:fixed;
+    margin-left: 880px;
+    margin-top: -85px;
+    padding: 7px 14px;
+    border: 1px white solid;
+    border-radius:2px;
+    background: transparent;
+    color: white; 
+   }
+
+   .login:hover {
+    text-decoration: none;
+    background: white;
+    color: #33BFCB;
+    transition:all .25s;
+    }
